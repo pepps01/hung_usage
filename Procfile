@@ -1,1 +1,1 @@
-uvicorn app:app --port ${PORT:-8000}  --host 0.0.0.0
+uvicorn app:app --port --host 0.0.0.0
